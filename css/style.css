@@ -23,6 +23,7 @@ display:flex;
 .nav-toggle{
 	/*margin-left: auto;*/
 	cursor: pointer;
+	
 }
 .nav-list-collapsed{
 	display: none;
